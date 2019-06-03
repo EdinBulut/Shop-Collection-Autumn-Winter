@@ -1,0 +1,242 @@
+[
+{
+"imgSrc": "product1",
+"productTitle": "Ženska majica",
+"model": "Cosmos",
+"price": "25",
+"colors": [
+"pink",
+"yellow",
+"dark-gray"
+],
+"colection": "female",
+"newCol" : false,
+"popular" : true,
+"action" : false
+},
+{
+"imgSrc": "product2",
+"productTitle": "Muška majica",
+"model": "Legendary",
+"price": "30",
+"colors": [
+"beige",
+"gray",
+"dark-gray"
+],
+"colection": "male",
+"newCol" : true,
+"popular" : false,
+"action" : true
+},
+{
+"imgSrc": "product3",
+"productTitle": "Ženska jakna",
+"model": "Platinum",
+"price": "60",
+"colors": [
+"gray",
+"light-blue",
+"red"
+],
+"colection": "female",
+"newCol" : false,
+"popular" : false,
+"action" : false
+},
+{
+"imgSrc": "product4",
+"productTitle": "Muška majica",
+"model": "Platinum",
+"price": "35",
+"colors": [
+"blue",
+"green",
+"gray"
+],
+"colection": "male",
+"newCol" : true,
+"popular" : true,
+"action" : false
+},
+{
+"imgSrc": "product5",
+"productTitle": "Muški kaput",
+"model": "Platinum",
+"price": "60",
+"colors": [
+"blue",
+"gray",
+"dark-gray"
+],
+"colection": "male",
+"newCol" : true,
+"popular" : true,
+"action" : false
+},
+{
+"imgSrc": "product6",
+"productTitle": "Ženska majica",
+"model": "Cosmos",
+"price": "30",
+"colors": [
+"purple",
+"beige",
+"gray"
+],
+"colection": "female",
+"newCol" : false,
+"popular" : false,
+"action" : true
+},
+{
+"imgSrc": "product7",
+"productTitle": "Muška dukserica",
+"model": "X Style",
+"price": "45",
+"colors": [
+"gray",
+"green",
+"dark-gray"
+],
+"colection": "male",
+"newCol" : true,
+"popular" : true,
+"action" : false
+},
+{
+"imgSrc": "product8",
+"productTitle": "Ženska dukserica",
+"model": "Legendary",
+"price": "45",
+"colors": [
+"beige",
+"red",
+"dark-gray"
+],
+"colection": "female",
+"newCol" : true,
+"popular" : true,
+"action" : true
+},
+{
+"imgSrc": "product9",
+"productTitle": "Muška majica",
+"model": "Platinum",
+"price": "30",
+"colors": [
+"blue",
+"yellow",
+"gray"
+],
+"colection": "male",
+"newCol" : true,
+"popular" : false,
+"action" : false
+},
+{
+"imgSrc": "product10",
+"productTitle": "Ženska košulja",
+"model": "Frogster",
+"price": "25",
+"colors": [
+"light-blue",
+"gray",
+"beige"
+],
+"colection": "female",
+"newCol" : false,
+"popular" : false,
+"action" : false
+},
+{
+"imgSrc": "product11",
+"productTitle": "Muški džemper",
+"model": "X Style",
+"price": "30",
+"colors": [
+"gray",
+"beige",
+"dark-gray"
+],
+"colection": "male",
+"newCol" : true,
+"popular" : false,
+"action" : true
+},
+{
+"imgSrc": "product12",
+"productTitle": "Muška košulja",
+"model": "Frogster",
+"price": "20",
+"colors": [
+"beige",
+"green",
+"gray"
+],
+"colection": "male",
+"newCol" : false,
+"popular" : false,
+"action" : false
+},
+{
+"imgSrc": "product13",
+"productTitle": "Ženska jakna",
+"model": "Legendary",
+"price": "55",
+"colors": [
+"red",
+"gray",
+"dark-gray"
+],
+"colection": "female",
+"newCol" : true,
+"popular" : false,
+"action" : true
+},
+{
+"imgSrc": "product14",
+"productTitle": "Ženski džemper",
+"model": "Cosmos",
+"price": "30",
+"colors": [
+"gray",
+"green",
+"beige"
+],
+"colection": "female",
+"newCol" : false,
+"popular" : true,
+"action" : true
+},
+{
+"imgSrc": "product15",
+"productTitle": "Muška jakna",
+"model": "Platinum",
+"price": "70",
+"colors": [
+"blue",
+"gray",
+"dark-gray"
+],
+"colection": "male",
+"newCol" : true,
+"popular" : false,
+"action" : false
+},
+{
+"imgSrc": "product16",
+"productTitle": "Ženska majica",
+"model": "X Style",
+"price": "40",
+"colors": [
+"gray",
+"yellow",
+"dark-gray"
+],
+"colection": "female",
+"newCol" : false,
+"popular" : false,
+"action" : true
+}
+]
