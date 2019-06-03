@@ -1,1 +1,1 @@
-# Shop-Kolekcija-jesen-zima
+# Shop - Kolekcija jesen-zima
